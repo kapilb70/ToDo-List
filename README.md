@@ -22,13 +22,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/react-todo-list.git
+   git clone https://github.com/kapilbishnoi70/ToDo-List.git
    ```
 
 2. Navigate into the project directory:
 
    ```
-   cd react-todo-list
+   cd todolist
    ```
 
 3. Install dependencies:
