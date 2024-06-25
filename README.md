@@ -1,7 +1,3 @@
-Certainly! Here's a suggested content for your GitHub README.md file:
-
----
-
 # React Todo List App
 
 ![Normal Mode](https://github.com/kapilbishnoi70/ToDo-List/assets/87631078/3f700018-352a-4804-8288-e3b2570cca20)
